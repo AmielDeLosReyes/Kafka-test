@@ -1,0 +1,34 @@
+# === Java & Maven ===
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# === Logs ===
+*.log
+logs/
+*.out
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Environment Files ===
+.env
+*.env
+
+# === Other ===
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# === Local build config ===
+.gradle/
+build/
