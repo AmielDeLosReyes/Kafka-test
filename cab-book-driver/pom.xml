@@ -39,7 +39,7 @@
 			<artifactId>spring-kafka</artifactId>
 		</dependency>
 
-		<!-- Lombok (RequiredArgsConstructor) -->
+		<!-- Lombok -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
